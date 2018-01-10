@@ -3,10 +3,6 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.nio.file.NoSuchFileException;
 
-//println args[0]
-//println args[1]
-//println args[2]
-
 Path source = Paths.get(args[0])
 Path target = Paths.get(args[1])
 try
